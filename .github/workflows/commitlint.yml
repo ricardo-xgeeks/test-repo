@@ -12,3 +12,4 @@ jobs:
       - uses: wagoid/commitlint-github-action@v5
         with:
           firstParent: true
+          helpURL: "https://github.com/ricardo-xgeeks/test-repo/tree/commitlint#convencional-stuff-here"
