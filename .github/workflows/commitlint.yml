@@ -9,3 +9,5 @@ jobs:
         with:
           fetch-depth: 0
       - uses: wagoid/commitlint-github-action@v5
+        with:
+          helpURL: "https://github.com/ricardo-xgeeks/test-repo/tree/commitlint#convencional-stuff-here"
